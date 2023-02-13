@@ -1,5 +1,9 @@
 # grpc_go_example
 
+### ./example 작업 내용
+
+1. 
+
 ### 참조
 
 https://grpc.io/docs/languages/go/quickstart/
